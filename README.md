@@ -1,8 +1,8 @@
 # ProjetBigData
 
-En cours : ▶️
-Fini : ✅
-A faire : ❌ 
+* En cours : ▶️
+* Fini : ✅
+* A faire : ❌ 
 
 ## Dask
 
