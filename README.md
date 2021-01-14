@@ -19,4 +19,4 @@
 * Plot the tip as a function of the hour of day and the day of the week ? ✅
 * Investigate the `payment_type` column.  See how well each of the payment types correlate with the `tip_fraction`.  Did you find anything interesting?
   Any guesses on what the different payment types might be?  If you're interested you may be able to find more information on the [NYC TLC's website](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) ▶️ ✅
-* How quickly can you get a taxi cab for a particular day of the year?  How about for a particular hour of that day? ❌
+* How well do New Yorkers tip as a function of the hour of day and the day of the week? ▶️
