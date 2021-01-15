@@ -6,13 +6,13 @@
 
 ## Dask
 
-* Display head of the dataframe ❌ 
-* Display number of rows of this dataframe. ❌ 
-* Compute the total number of passengers. ❌ 
-* Count occurrences in the payment_type column both for the full dataset, and filtered by zero tip (tip_amount == 0). ❌ 
-* Create a new column, tip_fraction ❌ 
-* Plot the average of the new column tip_fraction grouped by day of week. ❌ 
-* Plot the average of the new column tip_fraction grouped by hour of day. ❌ 
+* Display head of the dataframe ✅ 
+* Display number of rows of this dataframe. ✅ 
+* Compute the total number of passengers. ✅ 
+* Count occurrences in the payment_type column both for the full dataset, and filtered by zero tip (tip_amount == 0). ✅ 
+* Create a new column, tip_fraction ✅ 
+* Plot the average of the new column tip_fraction grouped by day of week. ✅ 
+* Plot the average of the new column tip_fraction grouped by hour of day. ✅ 
 
 ## Spark 
 
